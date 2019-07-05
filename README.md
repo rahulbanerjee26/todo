@@ -1,2 +1,2 @@
 # todo
-Simple todo app build using python's http server
+Simple todo app build using python's http server. Part of Udacity's FullStack Nanodegree
